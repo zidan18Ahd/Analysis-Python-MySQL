@@ -1,13 +1,7 @@
 # CSV File Analyzer with Python and Tkinter and MySQL as backend 
-Features
+A comprehensive way to analyse CSV file and visualize the data using different Python libraries like geopandas , pyodbc , ,matplotlib ,mysql.connector etc
 
-CSV File Analysis: Load and analyze data from a CSV file.
-
-Sorting: Utilize SQL queries for sorting data based on user-defined criteria.
-
-Graphical User Interface (GUI): Implemented using Tkinter for a user-friendly experience.
-
-Technologies Used
+Technologies Used--
 
 Python: Backend scripting language used for data manipulation and SQL operations.
 
